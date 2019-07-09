@@ -1,7 +1,7 @@
 <ul>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Ruby-Programming-Books/blob/master/ruby(1).pdf" style="text-decoration:none;">Ruby in a Nutshell </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Ruby-Programming-Books/blob/master/ruby(2).pdf" style="text-decoration:none;">The Well-Grounded Rubyist</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Ruby-Programming-Books/blob/master/ruby(3).pdf" style="text-decoration:none;">Beginning Ruby: From Novice to Professional</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Ruby-Programming-Books/blob/master/ruby(1).pdf" style="text-decoration:none;">Foundations of Organic Chemistry </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Ruby-Programming-Books/blob/master/ruby(2).pdf" style="text-decoration:none;">Advanced Organic Chemistry</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Ruby-Programming-Books/blob/master/ruby(3).pdf" style="text-decoration:none;">Advanced Problems In Organic Chemistry For JEE</a></b></li>
                                
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Ruby-Programming-Books/blob/master/ruby(4).pdf" style="text-decoration:none;">Ruby Best Practices</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Ruby-Programming-Books/blob/master/ruby(5).rar" style="text-decoration:none;">Head First Ruby</a></b></li>
