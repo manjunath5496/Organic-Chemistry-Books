@@ -60,6 +60,10 @@ Laboratory </a></b></li>
  
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Organic-Chemistry-Books/blob/master/org(42).pdf" style="text-decoration:none;">Modern Methods of Organic Synthesis</a></b></li>
  
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Organic-Chemistry-Books/blob/master/org(4).pdf" style="text-decoration:none;">Organic Chemistry I For Dummies</a></b></li> 
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Organic-Chemistry-Books/blob/master/org(23).rar" style="text-decoration:none;">Strategic Applications of Named Reactions in Organic Synthesis</a></b></li>
  
  
  
